@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Khana Sab KE Liye",
+    "slug": "khanasabklieRN",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/lo.png",
+    "splash": {
+      "image": "./assets/lo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/lo.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}
